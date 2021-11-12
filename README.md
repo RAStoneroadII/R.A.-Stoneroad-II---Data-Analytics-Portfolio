@@ -1,5 +1,6 @@
-# Randy's Portfolio
-Welcome! This is my data analytics portfolio to display my projects.
+# Welcome!
+My name is Randy and I am a medical laboratory scientist. I have a strong interest in data and programming, and am currently working on my master's degree in mathematics. 
+
 
 ## [Project 1: EDA Indian Covid Data](https://github.com/lazyrandy/EDA-Indian-Covid-Data)
 ### Background
