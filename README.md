@@ -3,7 +3,7 @@ My name is Randy and I am a medical laboratory scientist. I have a strong intere
 
 # Links
 ### [Resume](https://github.com/lazyrandy/R.A.-Stoneroad-II---Data-Analytics-Portfolio/blob/main/General%20Resume%20v1.pdf)
-### [LinkedIn](linkedin.com/in/randy-s-86baa0127)
+### [LinkedIn](https://www.linkedin.com/in/randy-s-86baa0127)
 
 # Projects
 ## [Project 1: EDA Indian Covid Data](https://github.com/lazyrandy/EDA-Indian-Covid-Data)
