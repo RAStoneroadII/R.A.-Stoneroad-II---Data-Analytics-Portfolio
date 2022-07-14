@@ -1,9 +1,6 @@
 # Welcome!
-My name is Randy and I am a medical laboratory scientist. I have a strong interest in data and programming, and am currently working on my master's degree in mathematics. 
-
-# Links
-### [Resume](https://github.com/lazyrandy/R.A.-Stoneroad-II---Data-Analytics-Portfolio/blob/main/General%20Resume%20v1.pdf)
-### [LinkedIn](https://www.linkedin.com/in/randy-s-86baa0127)
+My name is Randy and I am a business analyst, and I mainly work with SQL, Python, HTML, and CSS. I am currently in graduate school for mathematics.
+I have a strong interest in programming and data because I think it is a good outlet for applied mathematics and critical thinking.
 
 # Projects
 ## [Project 1: EDA Indian Covid Data](https://github.com/lazyrandy/EDA-Indian-Covid-Data)
@@ -12,4 +9,8 @@ SARS-CoV-2 is virus that is a member of the coronavirus family, and in early 201
 
 ## [Project 2: Wine Review EDA](https://github.com/lazyrandy/Wine_Review_EDA)
 ### Background
-Standardized tooling is important for streamlining workflows, because the wheel does not have to be reinvented every project. The main goal of this project is to develop a functional programming toolkit for performing exploratory data analysis (EDA) on datasets, and I will be using wine review data as my example dataset.
+Here, I analyze wine data to see how one could enter the wine market successfully. I start by looking at the most popular wines by counting reviews, and in the second part of the study I look at the geographic cost of land, labor, and equipment. 
+
+# Links
+### [Resume](https://github.com/lazyrandy/R.A.-Stoneroad-II---Data-Analytics-Portfolio/blob/main/General%20Resume%20v1.pdf)
+### [LinkedIn](https://www.linkedin.com/in/randy-s-86baa0127)
