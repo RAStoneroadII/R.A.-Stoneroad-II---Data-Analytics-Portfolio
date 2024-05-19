@@ -12,5 +12,5 @@ SARS-CoV-2 is virus that is a member of the coronavirus family, and in early 201
 Here, I analyze wine data to see how one could enter the wine market successfully. I start by looking at the most popular wines by counting reviews, and in the second part of the study I look at the geographic cost of land, labor, and equipment. 
 
 # Links
-### [Resume](https://github.com/lazyrandy/R.A.-Stoneroad-II---Data-Analytics-Portfolio/blob/main/General%20Resume%20v1.pdf)
+### [Resume](https://github.com/RAStoneroadII/R.A.-Stoneroad-II---Data-Analytics-Portfolio/blob/main/Resume%20v51724.pdf)
 ### [LinkedIn](https://www.linkedin.com/in/randy-s-86baa0127)
